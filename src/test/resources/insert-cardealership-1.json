@@ -1,0 +1,28 @@
+{
+ "carDealershipName": "Manhattan Motors",
+ "carDealershipAddress": "452 Columbus Ave",
+ "carDealershipCity": "Liberty City",
+ "carDealershipState": "CA",
+ "carDealershipZip": "11201",
+ "carDealershipPhone": "212-456-7865"
+ }
+ 
+ {
+ "employeeFirstName": "Claude",
+ "employeeLastName": "Speed",
+ "employeePhone": "212-532-8832",
+ "employeeJobTitle": "Manager"
+ }
+ 
+ {
+ "employeeFirstName": "Maria",
+ "employeeLastName": "Latore",
+ "employeePhone": "212-324-7732",
+ "employeeJobTitle": "Sales"
+ }
+ 
+ {
+ "customerFirstName": "Ted",
+ "customerLastName": "Templeman",
+ "customerEmail": "aandare@funmail.com"
+ }
